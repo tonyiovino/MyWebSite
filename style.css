@@ -1,0 +1,32 @@
+body {
+    font-size: 14px;
+    background-color: #ffffcc;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Cookie', cursive;
+    color: teal;
+    text-align: center;
+    font-size: 7em;
+}
+
+h2 {
+    font-family: 'Cookie', cursive;
+    color: lime;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: #990000;
+    margin-bottom: 2em;
+}
+
+p {
+    color: navy;
+    text-indent: 0;
+}
