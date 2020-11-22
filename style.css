@@ -29,5 +29,5 @@ li {
 p {
     color: navy;
     text-indent: 3em;
-    letter-spacing: 10px;
+    word-spacing: 10px;
 }
